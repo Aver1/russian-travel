@@ -6,4 +6,8 @@
 Сайт **Адаптивен** и может использоваться на различных устройствах
 ---
 #### Ссылка GitHub Pages
+<<<<<<< HEAD
 https://aver1.github.io/russian-travel/index.html
+=======
+https://aver1.github.io/russian-travel/index.html
+>>>>>>> 75d8f1bdaa2bffdc4831f1941fd0e7688bb6a8d8
