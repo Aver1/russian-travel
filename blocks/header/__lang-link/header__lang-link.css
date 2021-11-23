@@ -1,5 +1,4 @@
 .header__lang-link {
-  margin-left: 18px;
   text-decoration: none;
   color: #fff;
   font-style: normal;
@@ -15,10 +14,7 @@
 
 @media screen and (max-width: 767px) {
   .header__lang-link {
-    font-style: normal;
-    font-weight: normal;
     font-size: 18px;
     line-height: 20px;
-    transition: .3s;
   }
 }

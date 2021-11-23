@@ -4,7 +4,6 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 18px;
-  margin-right: 18px;
   transition: .2s;
 }
 
@@ -18,7 +17,6 @@
 
 @media screen and (max-width: 760px) {
   .footer__link {
-    font-weight: normal;
     font-size: 24px;
     line-height: 24px;
     margin: 0 0 32px;

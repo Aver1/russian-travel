@@ -22,7 +22,4 @@
     margin-bottom: 50px;
     row-gap: 32px;
   }
-  .place:last-child {
-    margin-bottom: 0;
-  }
 }
